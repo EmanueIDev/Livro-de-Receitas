@@ -29,44 +29,44 @@
 ## Modo de Preparo:
 ### Passo 1: Preparando o Frango
 
-Corte o peito de frango em cubos ou tiras. Se preferir, pode usar sobrecoxa desossada também.
+• Corte o peito de frango em cubos ou tiras. Se preferir, pode usar sobrecoxa desossada também.
 
-Tempere o frango com um pouco de sal e pimenta-do-reino.
+• Tempere o frango com um pouco de sal e pimenta-do-reino.
 
 ### Passo 2: Refogando a Cebola e o Alho
 
-Em uma panela grande ou frigideira funda, aqueça o azeite ou manteiga em fogo médio.
+• Em uma panela grande ou frigideira funda, aqueça o azeite ou manteiga em fogo médio.
 
-Adicione a cebola picada e refogue até que ela fique transparente, cerca de 2 minutos.
+• Adicione a cebola picada e refogue até que ela fique transparente, cerca de 2 minutos.
 
-Adicione o alho picado e refogue por mais 1 minuto, até liberar o aroma.
+• Adicione o alho picado e refogue por mais 1 minuto, até liberar o aroma.
 
 ### Passo 3: Cozinhando o Frango
 
-Adicione o frango à panela e frite até que ele esteja dourado por todos os lados, aproximadamente 6-8 minutos.
+• Adicione o frango à panela e frite até que ele esteja dourado por todos os lados, aproximadamente 6-8 minutos.
 
-Se desejar, adicione o molho shoyu para dar mais sabor ao frango, mexa bem e cozinhe por mais 1-2 minutos.
+• Se desejar, adicione o molho shoyu para dar mais sabor ao frango, mexa bem e cozinhe por mais 1-2 minutos.
 
 ### Passo 4: Preparando o Molho
 
-Adicione o caldo de galinha (ou água com o cubo de caldo dissolvido) à panela e misture bem.
+• Adicione o caldo de galinha (ou água com o cubo de caldo dissolvido) à panela e misture bem.
 
-Adicione o ketchup e a mostarda, mexendo para incorporar tudo.
+• Adicione o ketchup e a mostarda, mexendo para incorporar tudo.
 
-Deixe cozinhar por 5-7 minutos, até o frango estar completamente cozido e o molho começar a engrossar um pouco.
+• Deixe cozinhar por 5-7 minutos, até o frango estar completamente cozido e o molho começar a engrossar um pouco.
 
 ### Passo 5: Finalizando o Strogonoff
 
-Adicione o creme de leite à mistura, mexendo até ficar homogêneo. Não deixe ferver após adicionar o creme, apenas aqueça até que o molho esteja cremoso e bem misturado.
+• Adicione o creme de leite à mistura, mexendo até ficar homogêneo. Não deixe ferver após adicionar o creme, apenas aqueça até que o molho esteja cremoso e bem misturado.
 
-Acrescente os champignons fatiados e mexa novamente. Se estiver usando champignon fresco, cozinhe por mais uns 3 minutos até que fiquem macios.
+• Acrescente os champignons fatiados e mexa novamente. Se estiver usando champignon fresco, cozinhe por mais uns 3 minutos até que fiquem macios.
 
 ### Passo 6: Ajustes Finais
 
-Prove o molho e ajuste o sal e a pimenta, se necessário.
+• Prove o molho e ajuste o sal e a pimenta, se necessário.
 
-Deixe o strogonoff no fogo baixo por 2-3 minutos para garantir que todos os sabores estejam bem integrados.
+• Deixe o strogonoff no fogo baixo por 2-3 minutos para garantir que todos os sabores estejam bem integrados.
 
 ### Passo 7: Servindo
 
-Sirva o Strogonoff de Frango quente, acompanhado de arroz branco e batata palha. Se gostar, decore com salsinha ou cebolinha picada por cima para dar frescor.
+• Sirva o Strogonoff de Frango quente, acompanhado de arroz branco e batata palha. Se gostar, decore com salsinha ou cebolinha picada por cima para dar frescor.

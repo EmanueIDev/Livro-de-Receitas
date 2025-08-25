@@ -32,36 +32,36 @@
 ## Modo de Preparo:
 ### Passo 1: Preparando a base
 
-Triture os biscoitos de maisena no processador ou colocando-os em um saco plástico e amassando com um rolo de massa até virarem uma farofa bem fininha.
+• Triture os biscoitos de maisena no processador ou colocando-os em um saco plástico e amassando com um rolo de massa até virarem uma farofa bem fininha.
 
-Em uma tigela, misture a farofa de biscoito com a manteiga derretida e o açúcar.
+• Em uma tigela, misture a farofa de biscoito com a manteiga derretida e o açúcar.
 
-Forre o fundo de uma forma (pode ser de aro removível ou uma forma comum) com a mistura, pressionando bem para compactar a base.
+• Forre o fundo de uma forma (pode ser de aro removível ou uma forma comum) com a mistura, pressionando bem para compactar a base.
 
-Leve ao forno pré-aquecido a 180ºC por cerca de 10 minutos, só para firmar a base. Depois, retire e deixe esfriar enquanto prepara o recheio.
+• Leve ao forno pré-aquecido a 180ºC por cerca de 10 minutos, só para firmar a base. Depois, retire e deixe esfriar enquanto prepara o recheio.
 
 ### Passo 2: Preparando o recheio
 
-Em uma tigela, misture o leite condensado, o creme de leite, o suco de limão e a essência de baunilha (se for usar). Mexa bem até que o recheio esteja homogêneo e cremoso.
+• Em uma tigela, misture o leite condensado, o creme de leite, o suco de limão e a essência de baunilha (se for usar). Mexa bem até que o recheio esteja homogêneo e cremoso.
 
-Despeje o recheio sobre a base já fria, espalhando bem com uma espátula.
+• Despeje o recheio sobre a base já fria, espalhando bem com uma espátula.
 
 ### Passo 3: Cobertura (opcional)
 
-Se quiser uma cobertura mais sofisticada, bata a clara de ovo em neve até ficar bem firme.
+• Se quiser uma cobertura mais sofisticada, bata a clara de ovo em neve até ficar bem firme.
 
-Aos poucos, adicione o açúcar enquanto bate até que a mistura fique brilhante e suave.
+• Aos poucos, adicione o açúcar enquanto bate até que a mistura fique brilhante e suave.
 
-Espalhe a merengue sobre o recheio de limão, cobrindo toda a superfície. Você pode usar uma espátula para criar picos decorativos.
+• Espalhe a merengue sobre o recheio de limão, cobrindo toda a superfície. Você pode usar uma espátula para criar picos decorativos.
 
-Leve ao forno por mais 5 a 10 minutos, ou até a cobertura dourar levemente. Cuidado para não deixar queimar!
+• Leve ao forno por mais 5 a 10 minutos, ou até a cobertura dourar levemente. Cuidado para não deixar queimar!
 
 ### Passo 4: Finalizando e Servindo
 
-Após retirar do forno, deixe a torta esfriar completamente antes de desenformar.
+• Após retirar do forno, deixe a torta esfriar completamente antes de desenformar.
 
-Decore com raspas de limão por cima, e, se quiser, um pouco de chantilly.
+• Decore com raspas de limão por cima, e, se quiser, um pouco de chantilly.
 
-Leve à geladeira por algumas horas antes de servir, para que a torta fique bem firme e geladinha.
+•Leve à geladeira por algumas horas antes de servir, para que a torta fique bem firme e geladinha.
 
-Agora é só cortar as fatias e se deliciar!
+•Agora é só cortar as fatias e se deliciar!
