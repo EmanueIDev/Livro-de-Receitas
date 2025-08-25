@@ -1,5 +1,7 @@
 # Receita Camarão Alho e Óleo
 
+![Camarão Alho e Óleo](https://static.itdg.com.br/images/640-400/1c01a01db2f3f5e78197de84d6ee1dba/326210-original.jpg)
+
 ## Ingredientes:
 
 -500g de camarões limpos (sem casca e sem cabeça)

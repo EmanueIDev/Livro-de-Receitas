@@ -1,5 +1,7 @@
 # Receita de Torta de Limão
 
+![Tortinha](https://static.itdg.com.br/images/640-400/f96ee32f1aaa4b8fdd0df2e7fea1a506/36444-original.jpg)
+
 ## Ingredientes:
 ### Para a base:
 

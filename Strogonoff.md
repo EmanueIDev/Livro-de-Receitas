@@ -1,5 +1,7 @@
 # Receita de Strogonoff de Frango
 
+![Strogonoff](https://static.itdg.com.br/images/640-400/750c0ad1f3276894cc69b6467e1de5dd/194963-original.jpg)
+
 ## Ingredientes:
 
 -500g de peito de frango (cortado em cubos ou tiras)
