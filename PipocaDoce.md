@@ -2,6 +2,8 @@
 
 ## A pipoca doce caramelada é uma verdadeira delícia que combina a crocância da pipoca com um toque de açúcar derretido, criando uma mistura de sabores e texturas que é irresistível. Ideal para quem busca uma opção de lanche simples, porém saborosa, a pipoca doce é perfeita para um filme, uma tarde de diversão ou até para festas e reuniões informais. O contraste entre a leveza da pipoca estourada e o caramelo que a envolve cria uma experiência de sabor única.
 
+![Pipoca doce](https://i.panelinha.com.br/i1/64-bk-1463-pipoca-doce-blog.webp)
+
 ### Ingredientes:
 
 1/2 xícara de milho de pipoca
