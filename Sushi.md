@@ -1,6 +1,6 @@
 # A  receita de sushi é uma tradição culinária japonesa que combina arroz temperado com vinagre, peixe cru e outros ingredientes frescos, servidos sobre fatias de peixe ou enrolados em alga nori. Existem várias variações de sushi, como o nigiri, o maki e o temaki.
 
-Ingredientes:
+### Ingredientes:
 
 Arroz de sushi: arroz japonês, que é mais pegajoso e arredondado.
 
@@ -14,7 +14,7 @@ Wasabi: uma pasta picante feita a partir de uma raiz japonesa, que adiciona um t
 
 Gengibre em conserva: servido para limpar o paladar entre diferentes tipos de sushi.
 
-Modo de Preparo:
+### Modo de Preparo:
 
 Preparar o arroz: Lave bem o arroz de sushi até que a água saia limpa. Cozinhe o arroz e, após ele esfriar um pouco, misture com uma solução de vinagre de arroz, açúcar e sal.
 
