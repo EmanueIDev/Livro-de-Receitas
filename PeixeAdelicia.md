@@ -1,8 +1,8 @@
 # Peixe à Delícia com Banana
 
-Essa receita de Peixe à Delícia com Banana é uma combinação surpreendente e deliciosa, que mistura o sabor suave e delicado do peixe com o toque doce das bananas fritas. O molho cremoso, enriquecido com leite de coco e creme de leite, envolve o peixe e a banana, criando uma harmonia de sabores tropicais que vão conquistar qualquer paladar. O contraste entre o doce da banana e o salgado do peixe é o segredo dessa receita, que se transforma em um prato sofisticado e simples ao mesmo tempo.
+## Essa receita de Peixe à Delícia com Banana é uma combinação surpreendente e deliciosa, que mistura o sabor suave e delicado do peixe com o toque doce das bananas fritas. O molho cremoso, enriquecido com leite de coco e creme de leite, envolve o peixe e a banana, criando uma harmonia de sabores tropicais que vão conquistar qualquer paladar. O contraste entre o doce da banana e o salgado do peixe é o segredo dessa receita, que se transforma em um prato sofisticado e simples ao mesmo tempo.
 
-Ingredientes:
+###Ingredientes:
 
 4 filés de peixe branco (tilápia, linguado, robalo ou outro de sua preferência)
 
@@ -32,7 +32,7 @@ Sal e pimenta-do-reino a gosto
 
 1/4 de xícara de queijo ralado (opcional, para gratinar)
 
-Modo de Preparo:
+### Modo de Preparo:
 
 Temperar o peixe: Tempere os filés de peixe com o suco de limão, sal, pimenta-do-reino e as ervas finas. Deixe descansar por cerca de 15 minutos para pegar bem o sabor.
 
