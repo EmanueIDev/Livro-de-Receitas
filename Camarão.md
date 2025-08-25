@@ -2,23 +2,23 @@
 
 Ingredientes:
 
-500g de camarões limpos (sem casca e sem cabeça)
+-500g de camarões limpos (sem casca e sem cabeça)
 
-4 dentes de alho picados ou amassados
+-4 dentes de alho picados ou amassados
 
-3 colheres de sopa de azeite de oliva
+-3 colheres de sopa de azeite de oliva
 
-1 colher de sopa de manteiga (opcional, mas dá um sabor especial)
+-1 colher de sopa de manteiga (opcional, mas dá um sabor especial)
 
-Suco de 1 limão
+-Suco de 1 limão
 
-Sal e pimenta-do-reino a gosto
+-Sal e pimenta-do-reino a gosto
 
-Salsinha picada a gosto (opcional)
+-Salsinha picada a gosto (opcional)
 
-Pimenta calabresa (opcional, para um toque picante)
+-Pimenta calabresa (opcional, para um toque picante)
 
-1/2 taça de vinho branco seco (opcional, para um sabor mais sofisticado)
+-1/2 taça de vinho branco seco (opcional, para um sabor mais sofisticado)
 
 Modo de Preparo:
 
