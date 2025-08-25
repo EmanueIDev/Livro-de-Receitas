@@ -1,8 +1,8 @@
 # Pipoca Doce Caramelada
 
-A pipoca doce caramelada é uma verdadeira delícia que combina a crocância da pipoca com um toque de açúcar derretido, criando uma mistura de sabores e texturas que é irresistível. Ideal para quem busca uma opção de lanche simples, porém saborosa, a pipoca doce é perfeita para um filme, uma tarde de diversão ou até para festas e reuniões informais. O contraste entre a leveza da pipoca estourada e o caramelo que a envolve cria uma experiência de sabor única.
+## A pipoca doce caramelada é uma verdadeira delícia que combina a crocância da pipoca com um toque de açúcar derretido, criando uma mistura de sabores e texturas que é irresistível. Ideal para quem busca uma opção de lanche simples, porém saborosa, a pipoca doce é perfeita para um filme, uma tarde de diversão ou até para festas e reuniões informais. O contraste entre a leveza da pipoca estourada e o caramelo que a envolve cria uma experiência de sabor única.
 
-Ingredientes:
+### Ingredientes:
 
 1/2 xícara de milho de pipoca
 
@@ -16,7 +16,7 @@ Ingredientes:
 
 1 pitada de sal
 
-Modo de Preparo:
+### Modo de Preparo:
 
 Estourar as pipocas:
 O primeiro passo para fazer uma boa pipoca doce é estourar o milho. Em uma panela grande e com tampa, adicione o milho de pipoca e leve ao fogo médio. Tampe a panela e aguarde o som dos grãos estourando. Não se esqueça de agitar a panela de vez em quando para garantir que todas as pipocas estourem de maneira uniforme. Quando o som dos estalos diminuir, retire a panela do fogo e reserve as pipocas em uma tigela grande.
@@ -33,7 +33,7 @@ Quando a calda estiver pronta, despeje-a cuidadosamente sobre as pipocas estoura
 Deixar esfriar e servir:
 Transfira as pipocas para uma superfície plana, como uma assadeira, e deixe esfriar por alguns minutos. A calda vai endurecer um pouco enquanto esfria, formando uma crosta de caramelo ao redor de cada pipoca. Agora é só servir e saborear essa delícia!
 
-Dicas:
+### Dicas:
 
 Adição de especiarias: Se quiser uma versão com um toque de especiarias, adicione uma pitada de canela ou até mesmo de gengibre em pó à calda antes de despejá-la sobre as pipocas.
 
