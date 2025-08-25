@@ -1,6 +1,6 @@
 # Receita Camarão Alho e Óleo
 
-Ingredientes:
+## Ingredientes:
 
 -500g de camarões limpos (sem casca e sem cabeça)
 
@@ -20,7 +20,7 @@ Ingredientes:
 
 -1/2 taça de vinho branco seco (opcional, para um sabor mais sofisticado)
 
-Modo de Preparo:
+## Modo de Preparo:
 
 Preparação dos camarões: Se os camarões não estiverem limpos, retire as cascas e as cabeças. Deixe-os prontos para o preparo. Se for necessário, também pode tirar a veia (a linha preta que fica nas costas do camarão).
 
@@ -34,7 +34,7 @@ Finalização: Ajuste o sal e a pimenta, se necessário. Se quiser, adicione pim
 
 Serviço: Sirva imediatamente, acompanhado de arroz branco, batatas assadas ou uma saladinha fresca. Fica uma delícia!
 
-Dicas:
+## Dicas:
 
 Se preferir, pode substituir a manteiga por mais azeite de oliva.
 
